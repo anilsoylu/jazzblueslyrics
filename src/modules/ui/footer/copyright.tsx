@@ -1,4 +1,5 @@
 import { GlobalData } from "@/data/global"
+import { LogoSlice } from "@/lib/utils"
 import { memo } from "react"
 
 type CopyrightProps = {
@@ -12,7 +13,7 @@ const Copyright = memo(({ className }: CopyrightProps = {}) => {
         className ?? ""
       }`}
     >
-      © {GlobalData.footer.year} {GlobalData.footer.companyName}.{" "}
+      © {GlobalData.footer.year} {LogoSlice(GlobalData.companyName)}.{" "}
       {GlobalData.footer.copyright}
     </p>
   )
