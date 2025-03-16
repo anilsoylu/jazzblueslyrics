@@ -6,7 +6,7 @@ export const metaData = {
     name: process.env.BASE_URL!,
   },
   metaTitle:
-    "Güvenilir ve Popüler Bahis Siteleri 2025 – Canlı ve Bonus Veren Siteler",
+    "Canlı ve Güvenilir Bahis Siteleri - Popüler ve Bonus Veren Siteler 2025",
   metaDescription:
-    "Güvenilir, popüler ve canlı bahis siteleri listesi! Lisanslı, bonus veren siteleri keşfedin. 2025’in en iyi bahis siteleri ve deneme bonusu fırsatları burada!",
+    "Canlı bahis siteleri ve en iyi siteler listesi! Popüler, lisanslı bonus veren siteler burada. 2025'in güvenilir sitelerin kazadıran fırsatları için tıklayın.",
 }

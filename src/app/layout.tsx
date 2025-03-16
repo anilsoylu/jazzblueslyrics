@@ -33,8 +33,4 @@ export const metadata: Metadata = {
     index: false,
     follow: false,
   },
-  other: {
-    google: "notranslate",
-    robots: "noarchive",
-  },
 }
