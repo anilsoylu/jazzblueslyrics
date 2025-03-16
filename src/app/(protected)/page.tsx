@@ -21,8 +21,8 @@ const LoadingFallback = () => (
 )
 
 const HomePage = async () => {
-  const adsLists = await getAllAdsLists()
-  const companyLists = await getAllCompanyLists()
+  // const adsLists = await getAllAdsLists()
+  // const companyLists = await getAllCompanyLists()
 
   return (
     <ErrorBoundary>
@@ -30,6 +30,11 @@ const HomePage = async () => {
         <Suspense fallback={<LoadingFallback />}>
           <Hero />
 
+          <SectionWrapper id={SECTION_IDS.MY_COMPANIES}>
+            <MyCompanies />
+          </SectionWrapper>
+
+          {/*
           <FirmList adsLists={adsLists} companyLists={companyLists} />
 
           {/*

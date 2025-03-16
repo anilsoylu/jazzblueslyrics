@@ -5,4 +5,4 @@ export const SECTION_IDS = {
   FAQ: "faq",
 } as const
 
-export const SECTION_SPACING = "w-full py-6 md:py-12" as const
+export const SECTION_SPACING = "w-full py-3 md:py-6" as const

@@ -1,26 +1,129 @@
-export const newContentText = `<h4>2025 Yılının Yeni Bahis Siteleri İncelemesi</h4>
-<p>Sizler için hiçbir yerde bulamayacağınız eşsiz bir hizmeti yayına alıyoruz. Sayfamızın bu bölümünde seçilmiş yeni bahis siteleri hakkında bilgiler sunuyoruz. Burayı özel kılan en önemli faktör ise bahis sitelerine ait güncel bilgilerin yer almasıdır. Böylece henüz üye olmadığınız ve olmayı düşündüğünüz firmaları daha yakından tanıyabilirsiniz.</p>
-<h5><strong>Tipobet</strong></h5>
-<p>Tipobet, canlı bahis ve casino hizmetleri sunan bir platformdur. Spor bahisleri, canlı bahisler ve casino oyunları gibi çeşitli seçenekler sunmaktadır. Ancak, kullanıcı deneyimleri ve şikayetleri incelendiğinde, platformla ilgili bazı olumsuz geri bildirimler bulunmaktadır.</p>
-<p>Örneğin, Şikayetvar platformunda Tipobet ile ilgili çeşitli şikayetler yer almaktadır. Bu şikayetler arasında müşteri hizmetlerinin yetersizliği, kazançların ödenmemesi ve hesapların haksız yere kapatılması gibi konular öne çıkmaktadır. Kullanıcılar, müşteri hizmetlerinin sorunları çözmede yetersiz kaldığını ve canlı destek hattının etkisiz olduğunu belirtmektedirler.</p>
-<h5><strong>Tarafbet</strong></h5>
-<p>Tarafbet, bahis ve casino hizmetleri sunan bir platformdur. Site, spor bahisleri, canlı bahisler ve casino oyunları gibi çeşitli seçenekler sunmaktadır. Şirketin Hollanda Antilleri yasalarına göre kurulduğu ve Feel So Good B.V. adlı şirket tarafından işletildiği belirtilmektedir. Ayrıca, Hollanda Antilleri Oyun Kontrol ve Denetleme Komisyonu&#8217;ndan 1668 numaralı lisansa sahip olduğu ifade edilmektedir.</p>
-<h5><strong>Onwin</strong></h5>
-<p>Onwin, 2017 yılında faaliyete başlayan ve sanal bahis ile casino hizmetleri sunan bir platformdur. Spor bahislerinden canlı bahis seçeneklerine, casino oyunlarından sanal sporlara kadar geniş bir yelpazede hizmet vermektedir.</p>
-<h5><strong>Betvole</strong></h5>
-<p>Betvole, çevrimiçi bahis ve casino hizmetleri sunan bir platformdur. Site, spor bahisleri, canlı bahisler, casino oyunları ve sanal sporlar gibi geniş bir oyun yelpazesine sahiptir. Ayrıca, mobil cihazlarla uyumlu olup, kullanıcılarına 7/24 canlı destek hizmeti sunmaktadır.</p>
-<h5><strong>Betmatik</strong></h5>
-<p>Betmatik, kullanıcılarına bahis ve casino hizmetleri sunan bir platform olarak öne çıkıyor. Spor bahislerinden canlı bahis seçeneklerine, çeşitli casino oyunlarından slot makinelerine kadar geniş bir yelpazede hizmet veriyor. Platform, bahis tutkunlarına farklı seçenekler sunarak eğlenceli bir deneyim vadederken, kullanıcı geri bildirimleri incelendiğinde bazı olumsuz yorumlarla da karşılaşmak mümkün.</p>
-<p>Özellikle ödeme süreçleri, müşteri hizmetleri ve genel güvenilirlik konusunda bazı kullanıcıların şikayetleri bulunuyor. Bu nedenle, platformu tercih etmeden önce mevcut kullanıcı yorumlarını ve deneyimlerini dikkate almak faydalı olabilir. Bahis ve casino oyunları dünyasında bilinçli hareket etmek, daha güvenli bir deneyim yaşamanın anahtarlarından biridir.</p>
-<h5><strong>Casibom</strong></h5>
-<p>Casibom, kullanıcılara bahis ve casino oyunları sunan bir bet sitesidir. Türkiye&#8217;deki erişim kısıtlamaları nedeniyle, siteye giriş adresi zaman zaman değişiklik gösterebilmektedir. Bu durumda, kullanıcılar güncel bağlantı adreslerini Casibom&#8217;un resmi sosyal medya hesapları veya güvenilir bahis forumları aracılığıyla öğrenebilirler. Bu şekilde, siteye sorunsuz erişim sağlanabilir ve kullanıcılar eğlenceden mahrum kalmazlar.</p>
-<h5><strong>Jojobet</strong></h5>
-<p>Jojobet, kullanıcılarına bahis ve casino oyunları deneyimi sunan bir sitedir. Site, spor bahislerinden canlı bahis seçeneklerine ve casino oyunlarına kadar geniş bir yelpazede alternatifler sunmaktadır. Ancak, yapılan kullanıcı yorumları ve şikayetler göz önünde bulundurulduğunda, hizmetle ilgili bazı olumsuz geri bildirimler de bulunmaktadır. Bu nedenle, platformu kullanmadan önce mevcut yorumları incelemek faydalı olabilir.</p>
-<h5><strong>Betwoon</strong></h5>
-<p>Betwoon, aynı zamanda online bahis hizmetleri sunan bir platformdur. Bu site, canlı bahis, sanal bahis ve canlı casino gibi çeşitli bahis seçenekleri sunar. Betwoon, Digitain altyapısı ile hizmet vermekte ve yüksek bahis oranları ile dikkat çekmektedir. Ayrıca, site güvenilir bir lisansla çalışmakta ve müşteri memnuniyetine önem vermektedir.</p>
-<h5><strong>Marsbahis</strong></h5>
-<p>Marsbahis, Curacao yetkilileri tarafından verilen bir lisansla çalışmaktadır. Bu, siteyi belirli bir yasal çerçeve içinde güvenli ve yasal bir oyun ortamı olarak konumlandırır. Marsbahis, spor bahisleri, canlı bahisler, casino oyunları ve poker gibi çeşitli bahis seçenekleri sunar. Kullanıcılar, farklı spor dallarında maç öncesi ve canlı bahis yapabilirler.</p>
-`
+export const newContentText = `<table><caption><h2>Güvenilir Bahis Siteleri Listesi 2025</h2></caption>
+<thead>
+<tr>
+<th>Bahis Sitesi ♕</th>
+<th>Bonus §</th>
+<th>Güvenilirlik ☑</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>BahisCom</td>
+<td>222 TL &amp; 100 FS</td>
+<td>10/10</td>
+</tr>
+<tr>
+<td>Betkom</td>
+<td>301 TL veya 201 FS</td>
+<td>10/10</td>
+</tr>
+<tr>
+<td>GrandPashaBet</td>
+<td>500 TL</td>
+<td>10/10</td>
+</tr>
+<tr>
+<td>MarioBet</td>
+<td>100 TL &amp; 100 FS</td>
+<td>9.8/10</td>
+</tr>
+<tr>
+<td>TrendBet</td>
+<td>100 TL</td>
+<td>9.8/10</td>
+</tr>
+<tr>
+<td>Tarafbet</td>
+<td>5000 TL</td>
+<td>9.8/10</td>
+</tr>
+<tr>
+<td>ParmaBet</td>
+<td>2000 TL</td>
+<td>9.7/10</td>
+</tr>
+<tr>
+<td>Tipobet</td>
+<td>100 TL</td>
+<td>9.6/10</td>
+</tr>
+<tr>
+<td>Betnis</td>
+<td>200 TL</td>
+<td>9.6/10</td>
+</tr>
+<tr>
+<td>Sahabet</td>
+<td>250 TL</td>
+<td>9.4/10</td>
+</tr>
+<tr>
+<td>Superbetin</td>
+<td>5000 TL</td>
+<td>9.3/10</td>
+</tr>
+<tr>
+<td>Betsat</td>
+<td>200 TL</td>
+<td>9.1/10</td>
+</tr>
+<tr>
+<td>Betcio</td>
+<td>100 TL</td>
+<td>9.1/10</td>
+</tr>
+<tr>
+<td>Betist</td>
+<td>250 TL</td>
+<td>9/10</td>
+</tr>
+<tr>
+<td>Romabet</td>
+<td>100 TL</td>
+<td>8.8/10</td>
+</tr>
+<tr>
+<td>LigoBet</td>
+<td>150 TL</td>
+<td>8.6/10</td>
+</tr>
+<tr>
+<td>Roketbet</td>
+<td>300 TL</td>
+<td>8.5/10</td>
+</tr>
+<tr>
+<td>Jetbahis</td>
+<td>5000 TL</td>
+<td>8.3/10</td>
+</tr>
+<tr>
+<td>Betine</td>
+<td>333 TL</td>
+<td>8.2/10</td>
+</tr>
+<tr>
+<td>RestBet</td>
+<td>250 TL</td>
+<td>8/10</td>
+</tr>
+<tr>
+<td>İkiMisli</td>
+<td>200 TL</td>
+<td>7.8/10</td>
+</tr>
+<tr>
+<td>Bahsegel</td>
+<td>300 FS</td>
+<td>7.2/10</td>
+</tr>
+<tr>
+<td>PariBahis</td>
+<td>225 FS</td>
+<td>7/10</td>
+</tr>
+</tbody>
+</table>`
 
 export const loremIpsumText = `
 ### Güvenilir Bahis Siteleri

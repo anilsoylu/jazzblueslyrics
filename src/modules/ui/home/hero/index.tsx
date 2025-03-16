@@ -22,7 +22,7 @@ const Hero = memo(({ data = HeroData, className = "" }: HeroProps) => {
   return (
     <section
       id="hero"
-      className={`w-full py-6 md:py-12 ${className}`}
+      className={`w-full py-3 md:py-6 ${className}`}
       aria-label="Hero Section"
     >
       <div className="container px-4 md:px-6">
