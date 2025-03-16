@@ -1,7 +1,7 @@
 import Script from "next/script"
 
 const site_url = process.env.BASE_URL || "/"
-const site_name = "Bahis Siteleri"
+const site_name = "Bahis siteleri"
 
 const Schema = ({
   pageData = {},
@@ -14,48 +14,34 @@ const Schema = ({
 
   const schema = {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    image: [
-      {
-        "@context": "https://schema.org",
-        "@type": "ImageObject",
-        url: `${site_url}/uploads/populer-bahis-siteleri.jpg`,
-        width: "112",
-        height: "112",
-        contentUrl: `${site_url}/uploads/populer-bahis-siteleri.jpg`,
-        name: site_name,
-        creditText:
-          "Güvenilir ve Popüler Bahis Siteleri 2025 – Canlı ve Bonus Veren Siteler",
-      },
-    ],
-    url: site_url,
+    "@type": "Organization",
     name: site_name,
-    alternateName: [site_name.toLowerCase(), site_name.replace(" ", "")],
-    potentialAction: {
-      "@type": "SearchAction",
-      target: {
-        "@type": "EntryPoint",
-        urlTemplate: `${site_url}/arama?q={search_term_string}`,
-      },
-      "query-input": "required name=search_term_string",
+    url: site_url,
+    logo: `${site_url}/uploads/bahis-siteleri.jpg`,
+    image: `${site_url}/uploads/canli-bahis-siteleri.jpg`,
+    description:
+      "Canlı ve Güvenilir Bahis Siteleri - Popüler ve Bonus Veren Siteler 2025",
+    foundingDate: "2005",
+    contactPoint: {
+      "@type": "ContactPoint",
+      telephone: "+90 850 232 0 242",
+      contactType: "customer service",
+      availableLanguage: ["Turkish", "English"],
     },
-    mainEntity: {
-      "@context": "https://schema.org",
-      "@type": "ItemList",
-      itemListElement: [
-        {
-          "@context": "https://schema.org",
-          "@type": "ListItem",
-          url: `${site_url}`,
-          position: 1,
-        },
-      ],
-      numberOfItems: 1,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "Kocaeli Caddesi No: 50",
+      addressLocality: "İstanbul",
+      postalCode: "34400",
+      addressCountry: "TR",
     },
-    publisher: {
-      "@id": `${site_url}/#publisher`,
-      "@type": "Organization",
-      name: site_name,
+    offers: {
+      "@type": "Offer",
+      name: "Bonus veren bahis siteleri",
+      description: "Yeni üyelere özel hoş geldin bonusu!",
+      price: "1000",
+      priceCurrency: "TRY",
+      url: `${site_url}/#bonus`,
     },
   }
 
