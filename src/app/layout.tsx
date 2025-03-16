@@ -30,8 +30,8 @@ export default async function RootLayout({
 
 export const metadata: Metadata = {
   robots: {
-    index: true,
-    follow: true,
+    index: false,
+    follow: false,
   },
   other: {
     google: "notranslate",
