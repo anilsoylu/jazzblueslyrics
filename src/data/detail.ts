@@ -1,4 +1,4 @@
-export const newContentText = `<table><caption><h2>Güvenilir Bahis Siteleri Listesi 2025</h2></caption>
+export const newContentText = `<table><caption><h2>Güvenilir popüler bahis siteleri listesi 2025</h2></caption>
 <thead>
 <tr>
 <th>Bahis Sitesi ♕</th>
@@ -57,73 +57,17 @@ export const newContentText = `<table><caption><h2>Güvenilir Bahis Siteleri Lis
 <td>250 TL</td>
 <td>9.4/10</td>
 </tr>
-<tr>
-<td>Superbetin</td>
-<td>5000 TL</td>
-<td>9.3/10</td>
-</tr>
-<tr>
-<td>Betsat</td>
-<td>200 TL</td>
-<td>9.1/10</td>
-</tr>
-<tr>
-<td>Betcio</td>
-<td>100 TL</td>
-<td>9.1/10</td>
-</tr>
-<tr>
-<td>Betist</td>
-<td>250 TL</td>
-<td>9/10</td>
-</tr>
-<tr>
-<td>Romabet</td>
-<td>100 TL</td>
-<td>8.8/10</td>
-</tr>
-<tr>
-<td>LigoBet</td>
-<td>150 TL</td>
-<td>8.6/10</td>
-</tr>
-<tr>
-<td>Roketbet</td>
-<td>300 TL</td>
-<td>8.5/10</td>
-</tr>
-<tr>
-<td>Jetbahis</td>
-<td>5000 TL</td>
-<td>8.3/10</td>
-</tr>
-<tr>
-<td>Betine</td>
-<td>333 TL</td>
-<td>8.2/10</td>
-</tr>
-<tr>
-<td>RestBet</td>
-<td>250 TL</td>
-<td>8/10</td>
-</tr>
-<tr>
-<td>İkiMisli</td>
-<td>200 TL</td>
-<td>7.8/10</td>
-</tr>
-<tr>
-<td>Bahsegel</td>
-<td>300 FS</td>
-<td>7.2/10</td>
-</tr>
-<tr>
-<td>PariBahis</td>
-<td>225 FS</td>
-<td>7/10</td>
-</tr>
 </tbody>
-</table>`
+</table>
+<p>en iyi bahis siteleri sıralaması;</p>
+<ul>
+<li>Romabet</li>
+<li>LigoBet</li>
+<li>Bahsegel</li>
+<li>Bets10</li>
+<li>Betplay</li>
+</ul>
+<time datetime="2025-03-18T12:30:02+03:00">Güncellenme tarihi 18 Mart 12:30</time>`
 
 export const loremIpsumText = `
 ### Güvenilir Bahis Siteleri
