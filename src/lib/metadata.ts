@@ -13,7 +13,7 @@ export const generateSiteMetadata = (baseUrl: string): Metadata => ({
     type: "website",
     siteName: GlobalData.author.name,
   },
-  // alternates: {
-  //   canonical: baseUrl,
-  // },
+  alternates: {
+    canonical: baseUrl,
+  },
 })
