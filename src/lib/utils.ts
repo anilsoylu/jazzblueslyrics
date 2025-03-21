@@ -16,3 +16,14 @@ export function formatDate(date: string) {
 export const LogoSlice = (logo: string) => {
   return logo.replace("https://", "").replace("http://", "").replace("www.", "")
 }
+
+export const DateFormatter = (date: string) => {
+  return new Date(date).toLocaleDateString("tr-TR", {
+    timeZone: "Europe/Istanbul",
+    day: "2-digit",
+    month: "long",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  })
+}

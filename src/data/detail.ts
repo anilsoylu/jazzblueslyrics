@@ -1,3 +1,6 @@
+import { DateFormatter } from "@/lib/utils"
+import { GlobalData } from "./global"
+
 export const newContentText = `<table><caption><h2>Güvenilir popüler bahis siteleri listesi 2025</h2></caption>
 <thead>
 <tr>
@@ -59,15 +62,22 @@ export const newContentText = `<table><caption><h2>Güvenilir popüler bahis sit
 </tr>
 </tbody>
 </table>
-<p>en iyi bahis siteleri sıralaması;</p>
+<h2>en iyi bahis siteleri sıralaması</h2>
 <ul>
 <li>Romabet</li>
 <li>LigoBet</li>
 <li>Bahsegel</li>
 <li>Bets10</li>
 <li>Betplay</li>
+<li>1xbet</li>
+<li>Betsat</li>
+<li>Betmatik</li>
+<li>Supertotobet</li>
+<li>Sonbahis</li>
 </ul>
-<time datetime="2025-03-18T12:30:02+03:00">Güncellenme tarihi 18 Mart 12:30</time>`
+<time datetime="${GlobalData.createdAt}">Güncellenme tarihi ${DateFormatter(
+  GlobalData.createdAt
+)}</time>`
 
 export const loremIpsumText = `
 ### Güvenilir Bahis Siteleri

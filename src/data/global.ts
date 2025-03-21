@@ -17,7 +17,7 @@ export const GlobalData = {
   author: {
     name: metaData.author.name,
   },
-  createdAt: "2025-03-11T17:28:00+03:00",
+  createdAt: "2025-03-21T04:45:17+03:00",
   metaTitle: metaData.metaTitle,
   metaDescription: metaData.metaDescription,
   navbar: MenuItemsData,
